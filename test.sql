@@ -39,10 +39,10 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `TenSp`, `Gia`, `Trietkhau`) VALUES
-(1, '1', 2000, 0.25),
-(2, 'haha', 50000, 0.15),
-(3, 'áo mua', 50000, 0.25),
-(4, 'ao the thao', 40000, 0.16),
+(1, 'quần bò', 2000, 0.25),
+(2, 'quần âu', 50000, 0.15),
+(3, 'áo mưa', 50000, 0.25),
+(4, 'ao gió', 40000, 0.16),
 (5, 'áo bò', 160000, 0.25);
 
 --
