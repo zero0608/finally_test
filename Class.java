@@ -1,5 +1,3 @@
-package View;
-
 import java.util.ArrayList;
 import java.sql.*;
 import java.util.Scanner;
